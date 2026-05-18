@@ -372,9 +372,18 @@ This project demonstrates how Excel can be used for HR analytics, workforce insi
 
 ## Author Information
 
-# Nnajekwu Chinemerem Victory
+# Victory Nnajekwu
 
-Data Analyst | Financial Analyst | Business Analyst
+Data Analyst | Financial Analyst | Business Intelligence Enthusiast
+### Microsoft Excel
+### Power BI
+### SQL
+### Data Visualization
+### Dashboard Development
+### Business Analytics
 
-### Skills
-- Excel  
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/nnajekwu-victory-2b76a234b
+- GitHub: https://github.com/Victory0016/Victory0016
+- YouTube: https://www.youtube.com/@VictorytheAnalyst
+ 
