@@ -1,49 +1,49 @@
-# 📊 Access Bank Plc HR Analytics 
+# Access Bank Plc HR Analytics
 
-## 📌 Table of Contents
+## Table of Contents
 
-1. [Dashboard Preview](#dashboard-preview)  
-2. [Project Overview](#project-overview)  
-3. [Business Problem](#business-problem)  
-4. [Project Objectives](#project-objectives)  
-5. [Dataset Information](#dataset-information)  
-6. [Tools & Technologies Used](#tools--technologies-used)  
-7. [Data Cleaning Process](#data-cleaning-process)  
-8. [New Calculated Columns](#new-calculated-columns)  
-9. [Data Analysis Process](#data-analysis-process)  
-10. [Pivot Table Analysis (Excel Evidence)](#pivot-table-analysis-excel-evidence)  
-11. [Dashboard Development](#dashboard-development)  
-12. [Dashboard 1 - Workforce Overview Dashboard](#dashboard-1---workforce-overview-dashboard)  
-13. [Dashboard 2 - Employee Performance and Engagement Dashboard](#dashboard-2---employee-performance-and-engagement-dashboard)  
-14. [Dashboard 3 - Training and HR Investment Dashboard](#dashboard-3---training-and-hr-investment-dashboard)  
-15. [Key Insights](#key-insights)  
-16. [Business Recommendations](#business-recommendations)  
-17. [Challenges Encountered](#challenges-encountered)  
-18. [Conclusion](#conclusion)  
-19. [Author Information](#author-information)
+- [Dashboard Preview](#dashboard-preview)
+- [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
+- [Project Objectives](#project-objectives)
+- [Dataset Information](#dataset-information)
+- [Tools & Technologies Used](#tools--technologies-used)
+- [Data Cleaning Process](#data-cleaning-process)
+- [New Calculated Columns](#new-calculated-columns)
+- [Data Analysis Process](#data-analysis-process)
+- [Pivot Table Analysis](#pivot-table-analysis-excel-evidence)
+- [Dashboard Development](#dashboard-development)
+- [Workforce Overview Dashboard](#workforce-overview-dashboard)
+- [Performance and Engagement Dashboard](#performance-and-engagement-dashboard)
+- [Training and HR Investment Dashboard](#training-and-hr-investment-dashboard)
+- [Key Insights](#key-insights)
+- [Business Recommendations](#business-recommendations)
+- [Challenges Encountered](#challenges-encountered)
+- [Conclusion](#conclusion)
+- [Author Information](#author-information)
 ---
 
-# 📊 Dashboard Preview
+## Dashboard Preview
 
-## 1. Access Bank Workforce Overview Dashboard
+# 1. Access Bank Workforce Overview Dashboard
 
 <img width="1403" height="497" alt="Screenshot 2026-05-18 133932" src="https://github.com/user-attachments/assets/b3eb5c73-0160-437b-9090-588cf7b86e13" />
 
 ---
 
-## 2. Access Bank Performance & Engagement Dashboard
+# 2. Access Bank Performance & Engagement Dashboard
 
 <img width="1549" height="547" alt="Screenshot 2026-05-18 133807" src="https://github.com/user-attachments/assets/e80b446a-7c5b-47c2-b7b0-dc9bcc0f3134" />
 
 ---
 
-## 3. Access Bank Training & HR Investment Dashboard
+# 3. Access Bank Training & HR Investment Dashboard
 
 <img width="1511" height="551" alt="Screenshot 2026-05-18 133725" src="https://github.com/user-attachments/assets/4f12ec32-2c55-4e51-9144-188dfa6c2fb4" />
 
 ---
 
-# 📝 Project Overview
+## Project Overview
 
 This project focuses on analyzing workforce performance, employee engagement, training effectiveness, and HR investment activities at Access Bank Plc using Microsoft Excel.
 
@@ -53,7 +53,7 @@ The main objective was to transform raw HR data into meaningful business insight
 
 ---
 
-# 🚨 Business Problem
+## Business Problem
 
 Organizations struggle to monitor workforce productivity, engagement, satisfaction, and training performance effectively.
 
@@ -69,7 +69,7 @@ This project was developed to solve these business challenges using data-driven 
 
 ---
 
-# 🎯 Project Objectives
+## Project Objectives
 
 The primary objectives of this project include:
 
@@ -82,7 +82,7 @@ The primary objectives of this project include:
 - Build interactive dashboards for executive reporting.
 ---
 
-# 🗂 Dataset Information
+## Dataset Information
 
 The dataset contains HR records from Access Bank Plc including:
 
@@ -101,7 +101,7 @@ The dataset contains HR records from Access Bank Plc including:
 
 ---
 
-# 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 | Tool | Purpose |
 |------|----------|
@@ -114,7 +114,7 @@ The dataset contains HR records from Access Bank Plc including:
 
 ---
 
-# 🧹 Data Cleaning Process
+## Data Cleaning Process
 
 - Checked for duplicates  
 - Verified missing values  
@@ -124,13 +124,13 @@ The dataset contains HR records from Access Bank Plc including:
 
 ---
 
-# ➕ New Calculated Columns
+## New Calculated Columns
 
 Several additional columns were created to improve the analysis and generate deeper HR insights.
 
 ---
 
-## 📌 Age Group
+# 📌 Age Group
 
 This column was created using an IF statement to categorize employees into different age categories for workforce demographic analysis.
 
@@ -141,7 +141,7 @@ This column was created using an IF statement to categorize employees into diffe
 
 ---
 
-## 📌 Tenure
+### 📌 Tenure
 
 This column was created to measure the number of years employees have spent within the organization based on their employment start date.
 
@@ -149,7 +149,7 @@ The tenure analysis helped evaluate employee experience levels and workforce sta
 
 ---
 
-## 📌 Engagement Level
+### 📌 Engagement Level
 
 This column was created using engagement score ranges to classify employees into different engagement categories.
 
@@ -162,7 +162,7 @@ This analysis helped identify employees with lower engagement levels that may re
 
 ---
 
-## 📌 Satisfaction Level
+### 📌 Satisfaction Level
 
 This column was created to categorize employee satisfaction scores into meaningful satisfaction groups.
 
@@ -175,7 +175,7 @@ This helped evaluate overall employee morale and workplace satisfaction.
 
 ---
 
-## 📌 Performance Category
+### 📌 Performance Category
 
 This column was created to group employees based on their performance ratings.
 
@@ -188,7 +188,7 @@ The classification made it easier to analyze performance trends across departmen
 
 ---
 
-## 📌 Training Efficiency
+### 📌 Training Efficiency
 
 This column was created to evaluate the effectiveness of employee training programs by comparing training outcomes and performance indicators.
 
@@ -196,7 +196,7 @@ The analysis helped determine whether training investments were producing positi
 
 ---
 
-# 📊 Data Analysis Process
+## Data Analysis Process
 
 The analysis process involved several Excel-based analytical techniques, including:
 
@@ -213,7 +213,7 @@ The analysis focused on identifying patterns, workforce challenges, and opportun
 
 ---
 
-# 📊 Pivot Table Analysis (Excel Evidence)
+## Pivot Table Analysis (Excel Evidence)
 
 This section contains Pivot Tables used for analysis before dashboard creation.
 
@@ -230,7 +230,7 @@ These Pivot Tables form the **foundation of all insights and KPIs** in this proj
 
 ---
 
-# 📈 Dashboard Development
+## Dashboard Development
 
 Three dashboards  were created:
 
@@ -240,7 +240,8 @@ Three dashboards  were created:
 
 ---
 
-# 📌 DASHBOARD 1 — Workforce Overview Dashboard
+## Workforce Overview Dashboard
+
 <img width="1403" height="497" alt="Screenshot 2026-05-18 133932" src="https://github.com/user-attachments/assets/b3eb5c73-0160-437b-9090-588cf7b86e13" />
 
 ### KPIs
@@ -260,7 +261,8 @@ Three dashboards  were created:
 
 ---
 
-# 📌 DASHBOARD 2 — Performance & Engagement Dashboard
+## Performance and Engagement Dashboard
+
 <img width="1549" height="547" alt="Screenshot 2026-05-18 133807" src="https://github.com/user-attachments/assets/e80b446a-7c5b-47c2-b7b0-dc9bcc0f3134" />
 
 ### KPIs
@@ -281,7 +283,8 @@ Three dashboards  were created:
 
 ---
 
-# 📌 DASHBOARD 3 — Training & HR Investment Dashboard
+## Training and HR Investment Dashboard
+
 <img width="1511" height="551" alt="Screenshot 2026-05-18 133725" src="https://github.com/user-attachments/assets/4f12ec32-2c55-4e51-9144-188dfa6c2fb4" />
 
 ### KPIs
@@ -302,7 +305,7 @@ Three dashboards  were created:
 
 ---
 
-# 🔍 Key Insights
+## Key Insights
 
 Some major insights discovered during the analysis include:
 
@@ -316,7 +319,7 @@ Some major insights discovered during the analysis include:
 
 ---
 
-# 💡 Business Recommendations
+## Business Recommendations
 
 Based on the analysis, the following recommendations were provided:
 
@@ -330,7 +333,7 @@ Based on the analysis, the following recommendations were provided:
 
 ---
 
-# ⚠️ Challenges Encountered
+## Challenges Encountered
 
 Some challenges encountered during the project include:
 
@@ -344,7 +347,7 @@ These challenges were resolved using Excel data transformation and dashboard des
 
 ---
 
-# ✅ Conclusion
+## Conclusion
 
 This HR Analytics Dashboard Project successfully transformed raw HR data into actionable business insights for Access Bank Plc using Microsoft Excel.
 
@@ -361,15 +364,15 @@ The dashboards provide management with a clear and interactive way to monitor wo
 
 ---
 
-# ✅ Conclusion
+## Conclusion
 
 This project demonstrates how Excel can be used for HR analytics, workforce insights, and business decision-making using dashboards and Pivot Tables.
 
 ---
 
-# 👨‍💻 Author Information
+## Author Information
 
-## Nnajekwu Chinemerem Victory
+# Nnajekwu Chinemerem Victory
 
 Data Analyst | Financial Analyst | Business Analyst
 
