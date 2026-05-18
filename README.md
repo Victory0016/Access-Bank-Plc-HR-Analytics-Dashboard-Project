@@ -130,7 +130,7 @@ Several additional columns were created to improve the analysis and generate dee
 
 ---
 
-# 📌 Age Group
+### 📌 Age Group
 
 This column was created using an IF statement to categorize employees into different age categories for workforce demographic analysis.
 
@@ -375,12 +375,12 @@ This project demonstrates how Excel can be used for HR analytics, workforce insi
 # Victory Nnajekwu
 
 Data Analyst | Financial Analyst | Business Intelligence Enthusiast
-### Microsoft Excel
-### Power BI
-### SQL
-### Data Visualization
-### Dashboard Development
-### Business Analytics
+- Microsoft Excel
+- Power BI
+- SQL
+- Data Visualization
+- Dashboard Development
+- Business Analytics
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nnajekwu-victory-2b76a234b
