@@ -364,12 +364,6 @@ The dashboards provide management with a clear and interactive way to monitor wo
 
 ---
 
-## Conclusion
-
-This project demonstrates how Excel can be used for HR analytics, workforce insights, and business decision-making using dashboards and Pivot Tables.
-
----
-
 ## Author Information
 
 # Victory Nnajekwu
